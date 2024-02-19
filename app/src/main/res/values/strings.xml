@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="locations">Locations</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="new_location">New Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="name">Name</string>
+    <string name="error">Error</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="forecast_item_temperature">Temperature: %1$s</string>
+    <string name="forecast">Forecast</string>
+    <string name="details">Details</string>
+    <string name="temperature_day">Temperature Day</string>
+    <string name="temperature_night">Temperature night</string>
+    <string name="temperature_feels_like">Feels like</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="sunrise_at">Sunrise at</string>
+    <string name="sunset_at">Sunset at</string>
+</resources>
